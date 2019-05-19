@@ -16,7 +16,7 @@
 				<th>NO</th>
 				<th>NAMA</th>
 				<th>EMAIL</th>
-				<th style="width: 150px;">WEBSITE</th>
+				<th style="width: 150px;">WEBSITE yang telah ditentukan</th>
 				<th>KELAS</th>
 				<th style="width: 250px;">ALAMAT</th>
 				<th>ACTION</th>
